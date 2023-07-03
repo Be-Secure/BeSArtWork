@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Arya
+- Font Author: Copyright (c) 2014, Eduardo Rodriguez Tunni. Copyright (c) 2000, Modular Infotech, Pune, INDIA. All rights reserved.
+- Font Source: http://fonts.gstatic.com/s/arya/v19/ga6CawNG-HJd9Ub1-beqdFE.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
